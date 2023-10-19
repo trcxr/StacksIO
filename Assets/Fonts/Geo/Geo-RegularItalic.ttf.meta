@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a3120ba6b8f12974aa21ccf080876c77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geo
+  fontNames:
+  - Geo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a2111e2c6f7fd7c4a828f5fa617e0446, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
